@@ -1,0 +1,4 @@
+name: HH-Item
+version: '${project.version}'
+main: azuazu3939.hhitem.HH_Item
+api-version: 1.13
